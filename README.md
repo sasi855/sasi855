@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sasindra samaranayaka</h1>
+<h1 align="center">Hi 👋, I'm Sithuminie S A S</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 - 📫 How to reach me **sasindra0227@gmail.com**
